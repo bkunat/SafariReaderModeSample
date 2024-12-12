@@ -2,7 +2,7 @@
 
 A sample Safari Extension demonstrating how to implement a Reader Mode-like functionality using Safari App Extensions. This project shows how to extract and display article content in a clean, distraction-free popover view.
 
-<img width="516" alt="sample" src="https://github.com/user-attachments/assets/6aebb26a-ef8e-4e1a-b361-ec77ee988ef9" />
+<img width="524" alt="Screenshot 2024-12-12 at 17 40 49" src="https://github.com/user-attachments/assets/6dc8f5ac-258a-44ed-b357-4ff7f6347290" />
 
 ## Features
 
